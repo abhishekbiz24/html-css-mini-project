@@ -5,3 +5,7 @@ Parallax scrolling is a web site trend where the background content (i.e. an ima
 
 So in repository we created a parallax website using APIs for better experiance 
 feel free to use the link below to visit the website.
+
+
+
+ https://abhishekbiz24.github.io/html-css-mini-project/
